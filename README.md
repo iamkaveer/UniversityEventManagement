@@ -18,9 +18,8 @@
 5. startTime
 6. endTime
 
-Some basic Git commands are:
+
 ```
-git status
-git add
-git commit
+http://localhost:8080/find-all
+
 ```
