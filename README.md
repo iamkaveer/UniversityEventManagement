@@ -3,13 +3,14 @@
 
 ## Constraints:
   ### Create a student model and an event Model (Id,name,department,branch,location,description,starttime,endtime,date,imageurl)
-Student model will have-
+### Student model will have-
 1. StudentId
 2. first name
 3. last name
 4. age
 5. department
-Event Model will have
+
+### Event Model will have
 1. eventId
 2. eventName
 3. locationOfEvent
